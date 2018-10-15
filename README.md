@@ -18,7 +18,7 @@
 
 67 16 43 80 6 70 27 17 81 61 68 19 84 25 5
 
-##### Sorting array using java's quick sort (Quick sort uses divide and conquer approach as well)
+##### Sorted array using java's quick sort (Quick sort uses divide and conquer approach as well)
 
 5 6 16 17 19 25 27 43 61 67 68 70 80 81 84 
 
