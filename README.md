@@ -29,7 +29,7 @@
 ##### Middle element is not equal, so algorithm checks if middle element (value: 43) is greater than given element (value: 6)
 
 ##### Given element is not greater than middle element, so the other half is ignored
-5 6 16 17 19 25 27 43 61 67 68 70 80 81 84 ==> 5 6 16 **17** 19 25 27
+5 6 16 17 19 25 27 **43** 61 67 68 70 80 81 84 ==> 5 6 16 **17** 19 25 27
 
 ##### Middle element (value: 17, index 3) is greater than given element (value: 6)
 5 6 16 17 19 25 27 ==> 5 **6** 16
