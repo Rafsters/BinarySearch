@@ -32,7 +32,7 @@
 5 6 16 17 19 25 27 **43** 61 67 68 70 80 81 84 ==> 5 6 16 **17** 19 25 27
 
 ##### Middle element (value: 17, index 3) is greater than given element (value: 6)
-5 6 16 17 19 25 27 ==> 5 **6** 16
+5 6 16 **17** 19 25 27 ==> 5 **6** 16
 
 ##### Middle element (value: 6, index 1) is equal to given element (value: 6)
 
