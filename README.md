@@ -35,3 +35,6 @@
 5 6 16 17 19 25 27 ==> 5 6 16
 
 ##### Middle element (value: 6, index 1) is equal to given element (value: 6)
+
+
+<span style="color:blue">some *This is Blue italic.* text</span>
